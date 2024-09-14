@@ -1,0 +1,16 @@
+#secondary {
+  display: none;
+}
+
+#related {
+  display: none;
+}
+
+.html5-video-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.video-stream {
+  flex-grow: 1;
+}
